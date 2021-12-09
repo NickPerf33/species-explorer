@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Species Explorer</string>
+    <string name="email_label">Email:</string>
+    <string name="password_label">Password:</string>
+    <string name="logout_button">Logout</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="welcome">Welcome %1$s! This is the main activity where more will be added later!</string>
+    <string name="species_image_description">A picture of %1$s</string>
+    <string name="checklist_button">To Checklist Activity</string>
+</resources>
